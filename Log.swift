@@ -1,9 +1,8 @@
 //
 //  Log.swift
-//  iClaim
 //
 //  Created by Ertan Sinik on 8.06.2020.
-//  Copyright © 2020 Terra Bilgi İşlem. All rights reserved.
+//  Copyright © 2020. All rights reserved.
 //
 
 import Foundation
